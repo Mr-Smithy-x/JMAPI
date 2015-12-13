@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="JMAPI">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/out/artifacts/JMAPI_jar/JMAPI.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
